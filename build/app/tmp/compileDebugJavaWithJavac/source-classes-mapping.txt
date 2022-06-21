@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/veegil_bank_app/BuildConfig.java
+ com.example.veegil_bank_app.BuildConfig
